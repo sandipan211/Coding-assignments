@@ -1,0 +1,4 @@
+lena4(A,Res):- len_acc(A,0,R).
+len
+([],
+lena
