@@ -1,4 +1,0 @@
-gcc -shared -fPIC -o libsharedstack.so sharedstack.c
-gcc application.c -L /home/sandipan/Academics/semester_6/Operating_systems/ -lsharedstack -o shstack
-export LD_LIBRARY_PATH=/home/sandipan/Academics/semester_6/Operating_systems/:$LD_LIBRARY_PATH
-./shstack
