@@ -1,0 +1,5 @@
+E->TE'
+E'->+TE'|eps
+T->FT'
+T'->*FT'|eps
+F->(E)|id

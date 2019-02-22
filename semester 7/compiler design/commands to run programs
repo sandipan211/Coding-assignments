@@ -1,0 +1,7 @@
+program: using yacc
+===================
+
+	yacc -d yacc.y
+	lex lex.l
+	gcc y.tab.c -ll
+	./a.out<test_yacc.c 
