@@ -1,0 +1,2 @@
+firstTwoSame([X|[X|Rest]]).
+
