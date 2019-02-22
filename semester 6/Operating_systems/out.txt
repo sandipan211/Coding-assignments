@@ -1,0 +1,57 @@
+05-thread.pdf
+a2_1.c
+a2_2.c
+a2_3.c
+a2_4.c
+a2_5.c
+a2_6.c
+a2_7.c
+a2_8.c
+a2_9.c
+a3_1.c
+a3_2.c
+a4_1.c
+a4_1_enhance.c
+a5_sharedstack.c
+a6_1.c
+a6_2.c
+a6threadmutex.c
+a756db1f-17d9-4a7f-97df-4305480c2b63.jpeg
+abc
+a.out
+Assignment 1.pdf
+final.c
+libsharedstack.so
+matmul.c
+myfs.c
+mymutex2.c
+mysh.c
+Operating_System_Concepts.pdf
+osfile1
+osfile2
+out.txt
+readfork
+segF
+seg_fault.c
+sem1.c
+sharedlib commands
+sharedstack.c
+sharedstack.h
+shstack
+stackfns.c
+student.c
+student_enhance.c
+student_sem.c
+teacher.c
+teacher_enhance.c
+teacher_sem.c
+test
+test.txt
+textfiles
+threads2.pdf
+Working with Shared Libraries _ Set 2 - GeeksforGeeks.pdf
+x1.cpp
+xv6-rev10.pdf
+inside io
+
+mysh> biners 0 = >
