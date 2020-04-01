@@ -1,4 +1,4 @@
-Contains various assignments in speech processing:
+# Contains various assignments in speech processing:
 - YES/NO prediction
 - Vowel recognition
 - K-means and LBG
